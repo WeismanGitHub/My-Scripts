@@ -15,7 +15,7 @@ client.on("ready", async () => {
   setInterval(() => {
     client.user.setPresence({
       activities: [activities[index]],
-      status: index ? "dnd" : "online",
+      status: "dnd",
     });
 
     index = index ? 0 : 1;
