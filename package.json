@@ -1,0 +1,17 @@
+{
+  "name": "my-scripts",
+  "description": "A collection of scripts I've written.",
+  "scripts": {
+    "typer": "node src/endless-typer/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeismanGitHub/My-Scripts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeismanGitHub/My-Scripts/issues"
+  },
+  "homepage": "https://github.com/WeismanGitHub/My-Scripts#readme"
+}
